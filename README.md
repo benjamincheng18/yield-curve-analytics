@@ -74,7 +74,7 @@ the academic literature.
 ---
 
 ## Project Structure
-
+```
 yield-curve-analytics/
 ├── data/                   # Raw and processed data from FRED
 ├── src/
@@ -87,7 +87,7 @@ yield-curve-analytics/
 │   └── dashboard.html      # Interactive Plotly dashboard
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## How to Run
